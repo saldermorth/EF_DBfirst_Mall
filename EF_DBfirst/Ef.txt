@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=JOBBDATOR-GB\SQLEXPRESS;Initial Catalog=sandbox;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -Context SqlContext -ContextDir Models -OutputDir Models -DataAnnotations -Force
